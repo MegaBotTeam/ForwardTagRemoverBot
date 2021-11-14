@@ -24,7 +24,7 @@ func Start(b ext.Bot, u *gotgbot.Update) error {
 
 	startButton[0][0] = ext.InlineKeyboardButton{
 		Text: "𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🔖",
-		Url:  "https://t.me/Mega_Bots_Updates",
+		Url:  "https://t.me/Mega_Bots",
 	}
 
 	startButton[0][1] = ext.InlineKeyboardButton{
@@ -33,7 +33,7 @@ func Start(b ext.Bot, u *gotgbot.Update) error {
 	}
 
 	startButton[1][0] = ext.InlineKeyboardButton{
-		Text: "My Owner🔘",
+		Text: "𝗠𝘆 𝗢𝘄𝗻𝗲𝗿 🔘",
 		Url:  "https://t.me/Shivaay_12",
 	}
 
